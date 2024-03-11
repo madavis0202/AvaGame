@@ -1,0 +1,1 @@
+global.gui_items = ds_list_create();
