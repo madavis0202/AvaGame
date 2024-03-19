@@ -1,5 +1,5 @@
-view_width = 288;
-view_height = 216;
+view_width = 340;
+view_height = 220;
 
 window_scale = 3;
 

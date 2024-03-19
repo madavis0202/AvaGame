@@ -15,3 +15,5 @@ sprite[DOWN] = spr_main_character_down;
 sprite[PAUSE] = spr_main_character_searching;
 
 face = DOWN;
+
+targetEnter = -1;
