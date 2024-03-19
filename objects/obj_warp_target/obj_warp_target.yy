@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_warp_target",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_main_character","path":"objects/obj_main_character/obj_main_character.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_warp_target",
   "overriddenProperties":[],

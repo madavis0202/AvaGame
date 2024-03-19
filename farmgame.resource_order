@@ -42,7 +42,6 @@
     {"name":"obj_ui_message_options","order":6,"path":"objects/obj_ui_message_options/obj_ui_message_options.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_warp_block","order":3,"path":"objects/obj_warp_block/obj_warp_block.yy",},
-    {"name":"obj_warp_home","order":30,"path":"objects/obj_warp_home/obj_warp_home.yy",},
     {"name":"obj_warp_previous","order":29,"path":"objects/obj_warp_previous/obj_warp_previous.yy",},
     {"name":"obj_warp_target","order":31,"path":"objects/obj_warp_target/obj_warp_target.yy",},
     {"name":"obj_word","order":17,"path":"objects/obj_word/obj_word.yy",},

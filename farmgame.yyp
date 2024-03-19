@@ -61,7 +61,6 @@
     {"id":{"name":"obj_ui_message_options","path":"objects/obj_ui_message_options/obj_ui_message_options.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_warp_block","path":"objects/obj_warp_block/obj_warp_block.yy",},},
-    {"id":{"name":"obj_warp_home","path":"objects/obj_warp_home/obj_warp_home.yy",},},
     {"id":{"name":"obj_warp_previous","path":"objects/obj_warp_previous/obj_warp_previous.yy",},},
     {"id":{"name":"obj_warp_target","path":"objects/obj_warp_target/obj_warp_target.yy",},},
     {"id":{"name":"obj_word","path":"objects/obj_word/obj_word.yy",},},
