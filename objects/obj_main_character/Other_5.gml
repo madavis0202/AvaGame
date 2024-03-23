@@ -5,4 +5,3 @@ global.previous_target = global.current_target;
 
 
 
-

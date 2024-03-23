@@ -6,6 +6,11 @@ s_key = keyboard_check(ord("S"));
 xspeed = (d_key - a_key) * move_speed;
 yspeed = (s_key - w_key) * move_speed;
 
+if (xspeed != 0 && yspeed != 0) {
+    xspeed *= 0.8; // Reduce horizontal speed by 40%
+    yspeed *= 0.8; // Reduce vertical speed by 40%
+}
+
 if xspeed == 0 && yspeed == 0 
 {
     image_index = 0;
@@ -55,6 +60,7 @@ if place_meeting(x, y + yspeed, obj_wall)
 
 x += xspeed;
 y += yspeed;
+
 
 if yspeed > 0 && face == UP{ face = DOWN}
 if xspeed < 0 && face == DOWN{ face = UP}
